@@ -14,6 +14,7 @@
 		BA1A4A3A1C13C72C00DD37A3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BA1A4A381C13C72C00DD37A3 /* LaunchScreen.storyboard */; };
 		BA1A4A451C13C72D00DD37A3 /* TS4VelocimetroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1A4A441C13C72C00DD37A3 /* TS4VelocimetroTests.swift */; };
 		BA1A4A501C13C72D00DD37A3 /* TS4VelocimetroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1A4A4F1C13C72D00DD37A3 /* TS4VelocimetroUITests.swift */; };
+		BA1A4A5E1C13C75300DD37A3 /* TareaVelocimetro.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA1A4A5D1C13C75300DD37A3 /* TareaVelocimetro.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,8 @@
 		BA1A4A4B1C13C72D00DD37A3 /* TS4VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TS4VelocimetroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA1A4A4F1C13C72D00DD37A3 /* TS4VelocimetroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TS4VelocimetroUITests.swift; sourceTree = "<group>"; };
 		BA1A4A511C13C72D00DD37A3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BA1A4A5D1C13C75300DD37A3 /* TareaVelocimetro.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TareaVelocimetro.swift; sourceTree = "<group>"; };
+		BA1A4A5F1C13C77400DD37A3 /* MyPlaygroundTareaVelocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlaygroundTareaVelocimetro.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +106,8 @@
 				BA1A4A361C13C72C00DD37A3 /* Assets.xcassets */,
 				BA1A4A381C13C72C00DD37A3 /* LaunchScreen.storyboard */,
 				BA1A4A3B1C13C72C00DD37A3 /* Info.plist */,
+				BA1A4A5D1C13C75300DD37A3 /* TareaVelocimetro.swift */,
+				BA1A4A5F1C13C77400DD37A3 /* MyPlaygroundTareaVelocimetro.playground */,
 			);
 			path = TS4Velocimetro;
 			sourceTree = "<group>";
@@ -258,6 +263,7 @@
 			files = (
 				BA1A4A321C13C72C00DD37A3 /* ViewController.swift in Sources */,
 				BA1A4A301C13C72C00DD37A3 /* AppDelegate.swift in Sources */,
+				BA1A4A5E1C13C75300DD37A3 /* TareaVelocimetro.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
